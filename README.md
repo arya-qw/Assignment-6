@@ -12,8 +12,8 @@ To send emails through the Gmail API using OAuth 2.0 authentication.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/gmail-api-email-sender.git
-cd gmail-api-email-sender
+git clone https://github.com/arya-qw/gmail-api.git
+cd gmail-api
 ```
 
 ### Step 2: Install Dependencies
